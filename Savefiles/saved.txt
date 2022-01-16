@@ -1,0 +1,168 @@
+{
+    "inschrijvingen": {
+        "dataType": "Map",
+        "value": [
+            [
+                "K1_1000",
+                {
+                    "_reeksen": {
+                        "dataType": "Map",
+                        "value": [
+                            [
+                                "heat",
+                                {
+                                    "dataType": "Map",
+                                    "value": [
+                                        [
+                                            "SEN_H",
+                                            [
+                                                {
+                                                    "_categorie": "SEN_H",
+                                                    "_maxAantalBanen": 5,
+                                                    "_baanVerdeling": {
+                                                        "dataType": "Map",
+                                                        "value": [
+                                                            [
+                                                                1,
+                                                                {
+                                                                    "_id": "012d12d34dd05c16d6fbe973",
+                                                                    "_naam": "BRAM_SIKKENS",
+                                                                    "categorie": "SEN_H",
+                                                                    "club": "KCCM"
+                                                                }
+                                                            ],
+                                                            [
+                                                                2,
+                                                                {
+                                                                    "_id": "80ad0c8cb57763695ec61c35",
+                                                                    "_naam": "BRAFFFXXXWM_SIKKENS",
+                                                                    "categorie": "SEN_H",
+                                                                    "club": "KCCM"
+                                                                }
+                                                            ],
+                                                            [
+                                                                3,
+                                                                {
+                                                                    "_id": "078ec6a3dc90f9406d60fd1b",
+                                                                    "_naam": "BRZZAAAM_FDDF",
+                                                                    "categorie": "SEN_H",
+                                                                    "club": "KCCM"
+                                                                }
+                                                            ],
+                                                            [
+                                                                4,
+                                                                {
+                                                                    "_id": "9e334ee00c5423dea7def2d0",
+                                                                    "_naam": "AAAE_SIERFKKENS",
+                                                                    "categorie": "SEN_H",
+                                                                    "club": "KCCM"
+                                                                }
+                                                            ],
+                                                            [
+                                                                5,
+                                                                {
+                                                                    "_id": "3cfb8db9b8c76074f0f7a6e9",
+                                                                    "_naam": "LARS_ZEZER",
+                                                                    "categorie": "SEN_H",
+                                                                    "club": "KCCM"
+                                                                }
+                                                            ]
+                                                        ]
+                                                    },
+                                                    "_isFull": true
+                                                },
+                                                {
+                                                    "_categorie": "SEN_H",
+                                                    "_maxAantalBanen": 5,
+                                                    "_baanVerdeling": {
+                                                        "dataType": "Map",
+                                                        "value": [
+                                                            [
+                                                                1,
+                                                                {
+                                                                    "_id": "b2ece03c44d48fabc6dddf06",
+                                                                    "_naam": "JANNEMAN_ZEZSDQSER",
+                                                                    "categorie": "SEN_H",
+                                                                    "club": "KCCM"
+                                                                }
+                                                            ],
+                                                            [
+                                                                2,
+                                                                {
+                                                                    "_id": "788422ac675bd300be53217b",
+                                                                    "_naam": "IEPSODI_ZEZSDQSER",
+                                                                    "categorie": "SEN_H",
+                                                                    "club": "KCCM"
+                                                                }
+                                                            ]
+                                                        ]
+                                                    },
+                                                    "_isFull": false
+                                                }
+                                            ]
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                "semifinals",
+                                {
+                                    "dataType": "Map",
+                                    "value": []
+                                }
+                            ],
+                            [
+                                "final",
+                                {
+                                    "dataType": "Map",
+                                    "value": []
+                                }
+                            ]
+                        ]
+                    },
+                    "_afstand": "1000",
+                    "_bootType": "K1",
+                    "_maxAantalBanen": 5
+                }
+            ],
+            [
+                "K2_1000",
+                {
+                    "_reeksen": {
+                        "dataType": "Map",
+                        "value": [
+                            [
+                                "heat",
+                                {
+                                    "dataType": "Map",
+                                    "value": []
+                                }
+                            ],
+                            [
+                                "semifinals",
+                                {
+                                    "dataType": "Map",
+                                    "value": []
+                                }
+                            ],
+                            [
+                                "final",
+                                {
+                                    "dataType": "Map",
+                                    "value": []
+                                }
+                            ]
+                        ]
+                    },
+                    "_afstand": "1000",
+                    "_bootType": "K2"
+                }
+            ]
+        ]
+    },
+    "_id": "",
+    "naam": "PropagandaNew",
+    "plaats": "Mechelen",
+    "start": "2020-12-31T23:00:00.000Z",
+    "einde": "2021-01-31T23:00:00.000Z"
+}
